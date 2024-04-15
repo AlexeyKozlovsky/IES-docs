@@ -11,11 +11,9 @@
             "id": "bdf6d6dcadd84170",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SPI/Техническое задание для разработки программного модуля управления устройством SPI.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240415135403.png"
               }
             }
           },
@@ -161,14 +159,15 @@
   },
   "active": "ec0b035f34e41f90",
   "lastOpenFiles": [
-    "Pasted image 20240415135603.png",
-    "Pasted image 20240415135449.png",
+    "Pasted image 20240415141227.png",
     "Pasted image 20240415135403.png",
     "Pasted image 20240415135305.png",
     "Pasted image 20240415135150.png",
     "Pasted image 20240415135017.png",
-    "Welcome.md",
     "SPI/Техническое задание для разработки программного модуля управления устройством SPI.md",
+    "Pasted image 20240415135603.png",
+    "Pasted image 20240415135449.png",
+    "Welcome.md",
     "2024-04-12.md",
     "SPI"
   ]
